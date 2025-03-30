@@ -1,1 +1,6 @@
-nacos/nacos-server:v2.5.1
+#nacos/nacos-server:v2.5.1
+#mysql:8.0.39
+#minio/minio
+#elasticsearch:8.11.3
+redis:7.4.2
+
