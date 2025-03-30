@@ -10,4 +10,4 @@
 #seataio/seata-server
 #rmohr/activemq:5.15.6
 #webcenter/activemq:latest
-webcenter/activemq:6.1.6
+vulhub/activemq:6.1.6
