@@ -1,12 +1,12 @@
 #nacos/nacos-server:v2.5.1
 #mysql:8.0.39
 #minio/minio
-elasticsearch:8.17.4
+#elasticsearch:8.17.4
 #redis:7.4.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #rabbitmq:4.0.7
 #nginx:1.27.4
 
 #以下有问题
-#seata:2.3.0
+seata-server:2.3.0
 #activemq:5.19.0
