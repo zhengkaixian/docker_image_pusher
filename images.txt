@@ -5,4 +5,4 @@
 #redis:7.4.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #rabbitmq:4.0.7
-seataio/seata-server:v2.3.0
+seata-server:v2.3.0
