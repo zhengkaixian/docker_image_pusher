@@ -6,4 +6,5 @@
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #rabbitmq:4.0.7
 #seata:2.3.0
-nginx:1.27.4
+#nginx:1.27.4
+activemq:6.1.6
