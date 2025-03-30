@@ -3,5 +3,5 @@
 #minio/minio
 #elasticsearch:8.11.3
 #redis:7.4.2
-minio/minioRELEASE.2025-03-12T18-04-18Z
+minio/minio:RELEASE.2025-03-12T18-04-18Z
 rabbitmq:4.0.7
