@@ -6,7 +6,8 @@
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #rabbitmq:4.0.7
 #nginx:1.27.4
-
+#seataio/seata-server指定版本号下载不了
+#seataio/seata-server
 #以下有问题
-seataio/seata-server:V2.3.0
-#activemq:5.19.0
+
+rmohr/activemq:5.15.6
