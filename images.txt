@@ -8,5 +8,5 @@
 #nginx:1.27.4
 
 #以下有问题
-seata-server
+seataio/seata-server
 #activemq:5.19.0
