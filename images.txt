@@ -8,6 +8,6 @@
 #nginx:1.27.4
 #seataio/seata-server指定版本号下载不了
 #seataio/seata-server
-#rmohr/activemq:5.15.6
+rmohr/activemq:5.16.8
 #webcenter/activemq:latest
-vulhub/activemq:5.16.8
+#vulhub/activemq:5.16.8
