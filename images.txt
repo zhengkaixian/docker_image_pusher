@@ -7,4 +7,4 @@
 #rabbitmq:4.0.7
 #seata:2.3.0
 #nginx:1.27.4
-activemq:6.1.6
+activemq:5.19.0
