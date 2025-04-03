@@ -4,7 +4,8 @@
 #valkey/valkey:8
 
 #nacos/nacos-server:v2.5.1
-mysql:8.0.40
+#mysql:8.0.40
+mysql:8.4.0
 #minio/minio
 #elasticsearch:8.17.4
 #redis:7.4.2
