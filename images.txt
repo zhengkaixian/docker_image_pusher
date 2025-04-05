@@ -22,3 +22,4 @@ mysql:8.4.4
 #webcenter/activemq:latest
 #vulhub/activemq:5.16.8
 #apache/activemq-classic:6.1.6
+webcenter/activemq:6.1.6
