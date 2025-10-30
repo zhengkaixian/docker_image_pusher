@@ -3,7 +3,7 @@
 #postgres:13
 #valkey/valkey:8
 
-#nacos/nacos-server:v3.1.0
+nacos/nacos-server:v3.1.0
 
 #mysql:8.0.40
 #mysql:8.0.41
