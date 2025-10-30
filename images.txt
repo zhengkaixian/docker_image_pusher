@@ -9,11 +9,12 @@
 #mysql:8.0.41
 #mysql:8.4.0
 #mysql:8.4.4
-mysql:5.7.44
+#mysql:5.7.44
 
 #minio/minio
 #elasticsearch:8.17.4
 #redis:7.4.2
+redis:8.2.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
 #rabbitmq:4.0.7
 #nginx:1.27.4
