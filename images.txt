@@ -3,13 +3,13 @@
 #postgres:13
 #valkey/valkey:8
 
-#nacos/nacos-server:v2.5.1
+#nacos/nacos-server:v3.1.0
 
 #mysql:8.0.40
 #mysql:8.0.41
 #mysql:8.4.0
 #mysql:8.4.4
-mysql:5.7.44
+#mysql:5.7.44
 
 #minio/minio
 #elasticsearch:8.17.4
