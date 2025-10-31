@@ -16,7 +16,7 @@
 #redis:7.4.2
 #redis:8.2.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
-minio/minio:Security/CVE RELEASE.2025-10-15T17-29-55Z
+minio/minio:RELEASE.2025-09-07T16-13-09Z
 #rabbitmq:4.0.7
 #rabbitmq:4.2.0
 #nginx:1.27.4
