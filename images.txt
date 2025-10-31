@@ -16,7 +16,7 @@
 #redis:7.4.2
 #redis:8.2.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+#minio/minio:RELEASE.2025-09-07T16-13-09Z
 #rabbitmq:4.0.7
 #rabbitmq:4.2.0
 #nginx:1.27.4
@@ -25,5 +25,5 @@ minio/minio:RELEASE.2025-09-07T16-13-09Z
 #rmohr/activemq:5.15.6
 #webcenter/activemq:latest
 #vulhub/activemq:5.16.8
-#apache/activemq-classic:6.1.6
+apache/activemq-classic:6.1.8
 #webcenter/activemq:6.1.6
