@@ -20,10 +20,12 @@
 #rabbitmq:4.0.7
 #rabbitmq:4.2.0
 #nginx:1.27.4
+nginx:1.29.3
 #seataio/seata-server指定版本号下载不了
 #seataio/seata-server
 #rmohr/activemq:5.15.6
 #webcenter/activemq:latest
 #vulhub/activemq:5.16.8
-apache/activemq-classic:6.1.8
+#apache/activemq-classic:6.1.6
+#apache/activemq-classic:6.1.8
 #webcenter/activemq:6.1.6
