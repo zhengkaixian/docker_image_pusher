@@ -16,8 +16,9 @@
 #redis:7.4.2
 #redis:8.2.2
 #minio/minio:RELEASE.2025-03-12T18-04-18Z
+minio/minio:RELEASE.2025-10-15T17-29-55Z
 #rabbitmq:4.0.7
-rabbitmq:4.2.0
+#rabbitmq:4.2.0
 #nginx:1.27.4
 #seataio/seata-server指定版本号下载不了
 #seataio/seata-server
