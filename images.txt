@@ -29,3 +29,5 @@
 #apache/activemq-classic:6.1.6
 #apache/activemq-classic:6.1.8
 #webcenter/activemq:6.1.6
+#高斯数据库
+enmotech/opengauss:6.0.2
