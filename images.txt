@@ -4,7 +4,7 @@
 #valkey/valkey:8
 
 #nacos/nacos-server:v3.1.0
-nacos/nacos-server:v3.1.1
+#nacos/nacos-server:v3.1.1
 
 #mysql:8.0.40
 #mysql:8.0.41
@@ -22,6 +22,7 @@ nacos/nacos-server:v3.1.1
 #rabbitmq:4.2.0
 #nginx:1.27.4
 #nginx:1.29.3
+nginx:1.31.3
 #seataio/seata-server指定版本号下载不了
 #seataio/seata-server
 #rmohr/activemq:5.15.6
