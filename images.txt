@@ -22,7 +22,7 @@
 #rabbitmq:4.2.0
 #nginx:1.27.4
 #nginx:1.29.3
-nginx:1.31.3
+#nginx:1.31.3
 #seataio/seata-server指定版本号下载不了
 #seataio/seata-server
 #rmohr/activemq:5.15.6
@@ -33,3 +33,4 @@ nginx:1.31.3
 #webcenter/activemq:6.1.6
 #高斯数据库
 #enmotech/opengauss:6.0.2
+cloudreve/cloudreve:latest
