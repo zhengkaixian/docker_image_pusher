@@ -35,4 +35,5 @@
 #enmotech/opengauss:6.0.2
 #cloudreve/cloudreve:4.18.0
 #p3terx/aria2-pro
-nextcloud:31-fpm
+#nextcloud:31-fpm
+postgres:16-alpine
