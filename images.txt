@@ -33,5 +33,6 @@
 #webcenter/activemq:6.1.6
 #高斯数据库
 #enmotech/opengauss:6.0.2
-cloudreve/cloudreve:4.18.0
-p3terx/aria2-pro
+#cloudreve/cloudreve:4.18.0
+#p3terx/aria2-pro
+nextcloud:31-fpm
