@@ -35,6 +35,7 @@
 #nginx:1.27.4
 #nginx:1.29.3
 #nginx:1.31.3
+
 nginx:1.31.8
 
 #rabbitmq:4.0.7
